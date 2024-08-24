@@ -14,8 +14,9 @@
     </div>
     <div class="menu-container">
         <div class="menu-derecha">
-            <a class="enlaces-menu-derecha" href="https://www.instagram.com/direct/t/17845189743004531">Solicitar pedido</a>
-           
+            <a class="enlaces-menu-derecha" href="https://www.instagram.com/direct/t/17845189743004531">Pedido por Instagram</a>
+            <a class="enlaces-menu-derecha" href="https://api.whatsapp.com/message/6ISHB2PMY77JA1?autoload=1&app_absent=0">Pedido por WhatsApp</a>
+            
         </div>
         <div class="hamburger-icon">
             <span></span>
