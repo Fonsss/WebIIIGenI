@@ -7,7 +7,7 @@ menu {
     display: flex;
     flex-direction: row;
     width: 100%;
-    height: 250px;
+    height: 200px;
     margin-top: 0px;
     background-color: purple;
 }
@@ -26,9 +26,7 @@ menu {
 
 .menu-izquierda img {
     width: 30%;
-    
-    display: flex;
-    
+       
 
 }
 
@@ -145,6 +143,7 @@ menu {
     font-weight: 700;
 }
 
+
 .main-img {
     display: flex;
     align-items: center;
@@ -154,6 +153,64 @@ menu {
 
 .main-img img {
     width: 1140px;
+}
+.SwipCont{
+    margin-top: 0px;
+    padding-top: 50px;
+   
+    
+}
+.slider{
+    display: flex;
+    align-items: center;
+
+}
+
+.slider-txt{
+    margin-left: 85px;
+    width: 50%;
+}
+.slider-txt h1{
+    font-size: 70px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+
+.slider-txt p{
+    font-size: 18px;
+    color: #292929;
+
+}
+
+.boton{
+    margin-top: 50px;
+    
+}
+.btn{
+   
+    display: inline-block;
+    padding: 15px 35px;
+    border: 2px solid blueviolet;
+    color: black;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+.btn:hover{
+    background-color: blueviolet;
+
+}
+.slider-img{
+    width: 50%;
+
+}
+.slider-img img{
+    margin-right: 225px;
+    width: 550px;
 }
 
 .mid-info {
@@ -301,7 +358,7 @@ menu {
 
 
 footer {
-    
+    padding: 35px 0;
     background-color: rgb(119, 66, 155);
     color: white;
     width: 100%;
@@ -336,9 +393,11 @@ footer {
     padding-right: 25px;
 }
 .footer-derecha p {
-    width: 25%;
+    width: 20%;
     padding-top: 5px;
     text-align: justify;
+    font-size: 13px;
+
 }
 
 
@@ -388,7 +447,7 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background-color: aliceblue;
+        background-color: blue;
         border: 2px solid black;
         border-radius: 15px;
         font-size: 50px;
@@ -404,6 +463,43 @@ footer {
     .main-img img {
         width: 90%;
     }
+    .SwipCont{
+        padding: 30px;
+        margin-top: 100px;
+    }
+    .slider{
+        flex-direction: column;
+
+    }
+    .slider-txt{
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 50px;
+
+    }
+    .slider-txt h1{
+        font-size: 50px;
+    
+    }
+    .slider-txt p{
+        font-size: 20px;
+    }
+    .btn{
+        padding: 10px 25px;
+        font-size: 10px;
+    }
+    .slider-img{
+        width: 100%;
+        text-align: center;
+
+    }
+    .slider-img img{
+        margin-right: 0px;
+        width: 300px;
+
+    }
+
 
     .card-list {
         justify-content: column;

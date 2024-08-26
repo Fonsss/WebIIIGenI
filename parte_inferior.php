@@ -42,8 +42,10 @@
 </div>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 <script src="./script/hamburger-icon.js"></script>
 <script src="./script/accordion.js"></script>
 <script src="./script/cards.js"></script>
+<script src="./script/swiper.js"></script>
 
 
