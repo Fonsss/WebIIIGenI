@@ -5,10 +5,7 @@
 </div>
 
 <body>
-    <div class="main-img">
-        <img src="./images/Logo.png" alt="">
-
-    </div>
+   
     <div class="main-accordion-container">
 
 
@@ -40,7 +37,7 @@
                             <h1>Top #2</h1>
                             <p>Jordan 1 High x Dior</p>
                             <div class="boton">
-                                <a href="https://www.nike.com/t/air-force-1-07-mens-shoes-jBrhbr/CW2288-111"class="btn">Ver en la
+                                <a href="https://stockx.com/air-jordan-1-retro-high-dior"class="btn">Ver en la
                                     página</a>
                             </div>
                         </div>
@@ -55,7 +52,7 @@
                             <h1>Top #3</h1>
                             <p>Adidas forum</p>
                             <div class="boton">
-                                <a href="https://www.nike.com/t/air-force-1-07-mens-shoes-jBrhbr/CW2288-111"class="btn">Ver en la
+                                <a href="https://stockx.com/adidas-forum-exhibit-low-white-sky-tint"class="btn">Ver en la
                                     página</a>
                             </div>
                         </div>
@@ -70,7 +67,7 @@
                             <h1>Top #4</h1>
                             <p>Adidas Gazelle</p>
                             <div class="boton">
-                                <a href="https://www.nike.com/t/air-force-1-07-mens-shoes-jBrhbr/CW2288-111"class="btn">Ver en la
+                                <a href="https://www.adidas.cl/zapatillas-gazelle-indoor/JI2060.html"class="btn">Ver en la
                                     página</a>
                             </div>
                         </div>

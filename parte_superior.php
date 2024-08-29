@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="English">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta name="Ula Ula Web" content="Página">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="./Styles/main.css">
@@ -12,7 +12,7 @@
 <menu>
 <div class="menu-izquierda">
         <a href="./index.php">
-            <img src="./images/Logo.jpg" alt="">
+            <img src="./images/LogoUla.jpg" alt="">
         </a>
     </div>
     <div class="menu-container">

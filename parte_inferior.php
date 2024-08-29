@@ -30,7 +30,7 @@
     </ul>
  </div>
  <h2>Sigan nuestras redes Sociales          </h2>
-<img class="Logo-footer" src="images/Logo.jpg" alt="">   
+<img class="Logo-footer" src="images/LogoUla.jpg" alt="">   
 </div>
 
 
